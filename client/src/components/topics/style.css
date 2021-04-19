@@ -1,0 +1,8 @@
+.backOfGame{
+  background: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/345920/361fda7dfb819158079afbf50b7ca13d1ffa6468.jpg")
+}
+.borderGame{
+  /* border:solid 4px rgb(153, 3, 3); */
+  box-shadow: 0px 0px 40px rgba(153, 3, 3, 0.705);;
+  background-color: rgba(173, 10, 10, 0.637);
+}

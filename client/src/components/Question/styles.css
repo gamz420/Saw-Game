@@ -1,0 +1,9 @@
+.question{
+  /* border:solid 4px rgb(153, 3, 3); */
+  box-shadow: 0px 0px 40px rgba(153, 3, 3, 0.705);;
+  background-color: rgba(172, 9, 9, 0.699);
+  
+}
+.imagepaper{
+background: url('https://cdn.hipwallpaper.com/i/43/46/QIe32K.jpg');
+}
